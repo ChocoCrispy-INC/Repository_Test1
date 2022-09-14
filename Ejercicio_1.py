@@ -3,3 +3,4 @@ print("Hola Git Mode Python")
 
 print("Mi número favorito es el 4")
 print("I LOVE ANIME")
+print("My favorite food is sushi")
